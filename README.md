@@ -16,7 +16,7 @@ Merge learning:
 1. Create a new branch
 2. Make 2 commits
 3. Make 3 new commits in master from Git UI 
-4. Merge these new branch changes to master
+4. Merge these new branch changes to master branhMaster // branchMaster added from Git UI
 
 Following steps:
 Now making 2nd test commit 
