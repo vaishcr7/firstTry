@@ -6,4 +6,7 @@ Merge learning:
 
 Following steps:
 Now making 1st test commit from Git UI
+
 Now making 2nd test commit from Git UI
+
+Now making 3rd test commit from Git UI
